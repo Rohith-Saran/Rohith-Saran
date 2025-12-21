@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Rohith Saran
+##                                Hi there 👋 , I'm Rohith Saran
 
 <!--
 **Rohith-Saran/Rohith-Saran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ About Me 
+🔭 Currently exploring Go, Rust, and Web3.
+⚡ I enjoy Coding and listening to Podcasts.
+
+Technical skills
+Languages: Typescript, Python, Rust
+Technologies/Frameworks: NextJS, NodeJS
+Databases/Tools: MongoDB, PostgreSQL, Git
