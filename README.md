@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- About Me 
-🔭 Currently exploring Go, Rust, and Web3.
-⚡ I enjoy Coding and listening to Podcasts.
+ About Me <br>
+🔭 Currently exploring Go, Rust, and Web3.<br>
+⚡ I enjoy Coding and listening to Podcasts.<br>
 
-Technical skills
-Languages: Typescript, Python, Rust
-Technologies/Frameworks: NextJS, NodeJS
-Databases/Tools: MongoDB, PostgreSQL, Git
+Technical skills<br>
+Languages: Typescript, Python, Rust<br>
+Technologies/Frameworks: NextJS, NodeJS<br>
+Databases/Tools: MongoDB, PostgreSQL, Git<br>
