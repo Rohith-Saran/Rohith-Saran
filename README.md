@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ⚡ I enjoy Coding and listening to Podcasts.<br>
 
 Technical skills<br>
-Languages: Typescript, Python, Rust<br>
+Languages: Typescript, Python<br>
 Technologies/Frameworks: NextJS, NodeJS<br>
 Databases/Tools: MongoDB, PostgreSQL, Git<br>
