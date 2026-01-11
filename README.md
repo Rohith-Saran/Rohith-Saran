@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
  About Me <br>
-🔭 Currently exploring Go, Rust, and Web3.<br>
+🔭 Currently exploring NextJS,Go, Rust, and Web3.<br>
 ⚡ I enjoy Coding and listening to Podcasts.<br>
 
 Technical skills<br>
 Languages: Typescript, Python<br>
-Technologies/Frameworks: NextJS, NodeJS<br>
+Technologies/Frameworks: NodeJS<br>
 Databases/Tools: MongoDB, PostgreSQL, Git<br>
