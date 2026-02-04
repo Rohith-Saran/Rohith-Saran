@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  About Me <br>
-🔭 Currently exploring NextJS,Go, Rust, and Web3.<br>
+🔭 Currently exploring NextJS,Go, and Rust.<br>
 ⚡ I enjoy Coding and listening to Podcasts.<br>
 
 Technical skills<br>
