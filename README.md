@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://komarev.com/ghpvc/?username=Rohith-Saran)<br>
  About Me <br>
 🔭 Currently exploring Go, and Rust.<br>
 ⚡ I enjoy Coding and listening to Podcasts.<br>
