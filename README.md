@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  About Me <br>
-🔭 Currently exploring Kubernetes, and Go.<br>
+🔭 Currently exploring Terraform,Ansible and Go.<br>
 ⚡ I enjoy Coding and listening to Podcasts.<br>
 
 Technical skills<br>
