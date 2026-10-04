@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ⚡ I enjoy Coding and listening to Podcasts.<br>
 
 Technical skills<br>
-Languages : Python, TypeScript, JavaScript, SQL<br>
+Languages : Python, TypeScript, SQL<br>
 Frameworks & Libraries : React, Next.js, Node.js, Express.js<br>
-Tools, Databases & Cloud : PostgreSQL, MongoDB, Prisma, Git, GitHub, Docker,Kubernetes, AWS
+Tools, Databases & Cloud : PostgreSQL, Git, Docker,Kubernetes, AWS
 
