@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  About Me <br>
-🔭 Currently exploring Terraform,Ansible and Go.<br>
+🔭 Currently exploring Terraform,Ansible,K8s and Go.<br>
 ⚡ I enjoy Coding and listening to Podcasts.<br>
 
 Technical skills<br>
 Languages : Python, TypeScript, SQL<br>
 Frameworks & Libraries : React, Next.js, Node.js, Express.js<br>
-Tools, Databases & Cloud : PostgreSQL, Git, Docker,Kubernetes, AWS
+Tools, Databases & Cloud : PostgreSQL, Git, Docker, AWS
 
