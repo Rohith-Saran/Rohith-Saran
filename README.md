@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 Technical skills<br>
 Languages : Python, TypeScript, SQL<br>
 Frameworks & Libraries : React, Next.js, Node.js, Express.js<br>
-Tools, Databases & Cloud : PostgreSQL, Git, Docker, AWS
+Tools, Databases & Cloud : PostgreSQL, Git, Docker, AWS<br>
+DevOps : CI/CD (GitHub Actions), Prometheus, New Relic
 
